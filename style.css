@@ -1,0 +1,37 @@
+body{
+  margin: 0;
+  height: 100vh;
+  background-color: rgb(191, 193, 213);
+  font-family: Arial, Helvetica, sans-serif;
+  background-size:cover;
+  background-position: center;
+  text-align: center;
+  z-index: 0;
+  color: white;
+  justify-items: center;
+}
+
+h1{
+ padding: 1rem;
+  background-color: black;
+  border-radius: 1rem;
+  opacity: 0.8;
+  font-size: 2rem;
+}
+
+table{
+  line-height: 2rem;
+  word-spacing: 5rem;
+  justify-content:space-around;
+  align-items: center;
+  background-color: black;
+  font-size: 1.5rem;
+  margin: 1rem;
+  padding: 2rem;
+  border-radius: 1rem;
+  opacity: 0.8;
+}
+h3, h2{
+  background-color: rgb(56, 23, 23);
+  opacity: 0.8;
+}
