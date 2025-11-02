@@ -25,4 +25,4 @@ console.log("Grades for each interns");
 interns.forEach(upskillers=>{
   const average = calculateAverage(upskillers.scores);
 console.log(`${upskillers.intern}- Average Score: ${average}`)
-})
+});
